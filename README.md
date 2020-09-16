@@ -28,8 +28,8 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👯 Check out some of my recent followers
 
+- [insidelife](https://github.com/insidelife)
 - [Kuenssi](https://github.com/Kuenssi)
 - [Clashsoft](https://github.com/Clashsoft)
 - [lucasheld](https://github.com/lucasheld)
 - [dargmuesli](https://github.com/dargmuesli)
-- [GringoFabi](https://github.com/GringoFabi)
