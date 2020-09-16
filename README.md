@@ -14,7 +14,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [fujaba/fulibYamlTS](https://github.com/fujaba/fulibYamlTS) (2 months ago) - Typescript implementation of the fulib yamler
 - [KosrenDQ/DevOpsDemoApplication](https://github.com/KosrenDQ/DevOpsDemoApplication) (2 months ago) - 
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) (3 months ago) - 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 months ago) - The fulib.org website and Fulib Scenarios Web App
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) (6 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [K-R-I-S-T-A/AuthService](https://github.com/K-R-I-S-T-A/AuthService) (10 months ago) - Based on Keycloak, will sercure the System.
 
 #### 🌱 My latest projects
@@ -23,7 +23,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 1 week ago) - The fulib.org website and Fulib Scenarios Web App
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.4.2](https://github.com/fujaba/fulib.org/releases/tag/v1.4.2), 1 week ago) - The fulib.org website and Fulib Scenarios web app.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.3](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.3), 1 month ago) - A Github action to upgrade a service in Rancher 1.6.X 
 
 #### 👯 Check out some of my recent followers
