@@ -30,8 +30,8 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👯 Check out some of my recent followers
 
+- [unowiz](https://github.com/unowiz)
 - [insidelife](https://github.com/insidelife)
 - [Kuenssi](https://github.com/Kuenssi)
 - [Clashsoft](https://github.com/Clashsoft)
 - [lucasheld](https://github.com/lucasheld)
-- [dargmuesli](https://github.com/dargmuesli)
