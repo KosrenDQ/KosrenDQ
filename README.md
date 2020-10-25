@@ -24,7 +24,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v1.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v1.1), 1 day ago) - 
+- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v1.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v1.1), 2 days ago) - 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.5.0](https://github.com/fujaba/fulib.org/releases/tag/v1.5.0), 3 weeks ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.3.0](https://github.com/fujaba/fulib/releases/tag/v1.3.0), 3 weeks ago) - Fujaba library
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.3](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.3), 3 months ago) - A Github action to upgrade a service in Rancher 1.6.X 
