@@ -7,7 +7,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
-- [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (3 days ago) - A microservice which provides water fill levels of our coffee machine
+- [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (today) - A microservice which provides water fill levels of our coffee machine
 - [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (1 week ago) - 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (1 month ago) - Fujaba library
 - [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) (1 month ago) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
