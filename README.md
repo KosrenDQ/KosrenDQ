@@ -7,9 +7,9 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
+- [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (today) - 
 - [sekassel/IoTWT2021DemoService](https://github.com/sekassel/IoTWT2021DemoService) (3 days ago) - 
 - [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (2 weeks ago) - A microservice which provides water fill levels of our coffee machine
-- [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (1 month ago) - 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 months ago) - Fujaba library
 - [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) (2 months ago) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (4 months ago) - A Github action to upgrade a service in Rancher 1.6.X 
