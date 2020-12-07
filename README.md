@@ -7,7 +7,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
-- [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (6 days ago) - A microservice which provides water fill levels of our coffee machine
+- [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (1 week ago) - A microservice which provides water fill levels of our coffee machine
 - [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (1 week ago) - 
 - [sekassel/IoTWT2021DemoService](https://github.com/sekassel/IoTWT2021DemoService) (1 week ago) - 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (2 months ago) - Fujaba library
