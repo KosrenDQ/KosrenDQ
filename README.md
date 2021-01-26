@@ -7,8 +7,8 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
-- [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (6 days ago) - A microservice which provides water fill levels of our coffee machine
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (6 days ago) - A Github action to upgrade a service in Rancher 1.6.X 
+- [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (1 week ago) - A microservice which provides water fill levels of our coffee machine
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 week ago) - A Github action to upgrade a service in Rancher 1.6.X 
 - [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (1 month ago) - 
 - [sekassel/IoTWT2021DemoService](https://github.com/sekassel/IoTWT2021DemoService) (2 months ago) - 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (4 months ago) - Fujaba library
@@ -24,7 +24,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.6.1](https://github.com/fujaba/fulib.org/releases/tag/v1.6.1), 1 month ago) - The fulib.org website and Fulib Scenarios web app.
+- [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.6.1](https://github.com/fujaba/fulib.org/releases/tag/v1.6.1), 2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.4.1](https://github.com/fujaba/fulib/releases/tag/v1.4.1), 2 months ago) - Fujaba library
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v1.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v1.1), 3 months ago) - 
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.3](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.3), 6 months ago) - A Github action to upgrade a service in Rancher 1.6.X 
