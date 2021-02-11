@@ -7,16 +7,16 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (today) - A Github action to upgrade a service in Rancher 1.6.X 
 - [sekassel/IoTWT2021DemoService](https://github.com/sekassel/IoTWT2021DemoService) (1 week ago) - 
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (1 week ago) - Certification as a Service Monorepo
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (3 weeks ago) - A Github action to upgrade a service in Rancher 1.6.X 
 - [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (3 weeks ago) - A microservice which provides water fill levels of our coffee machine
 - [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (2 months ago) - 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (4 months ago) - Fujaba library
 - [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) (5 months ago) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
 - [fujaba/StudentAffairs](https://github.com/fujaba/StudentAffairs) (7 months ago) - 
-- [fujaba/fulibYamlTS](https://github.com/fujaba/fulibYamlTS) (7 months ago) - Typescript implementation of the fulib yamler
 - [KosrenDQ/DevOpsDemoApplication](https://github.com/KosrenDQ/DevOpsDemoApplication) (7 months ago) - 
+- [fujaba/fulibYamlTS](https://github.com/fujaba/fulibYamlTS) (7 months ago) - Typescript implementation of the fulib yamler
 
 #### 🌱 My latest projects
 
@@ -24,10 +24,10 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.4](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.4), today) - A Github action to upgrade a service in Rancher 1.6.X 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.6.1](https://github.com/fujaba/fulib.org/releases/tag/v1.6.1), 2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.4.1](https://github.com/fujaba/fulib/releases/tag/v1.4.1), 2 months ago) - Fujaba library
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v1.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v1.1), 3 months ago) - 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.3](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.3), 6 months ago) - A Github action to upgrade a service in Rancher 1.6.X 
 
 #### 👯 Check out some of my recent followers
 
