@@ -12,7 +12,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (3 weeks ago) - Certification as a Service Monorepo
 - [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (1 month ago) - A microservice which provides water fill levels of our coffee machine
 - [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (2 months ago) - 
-- [fujaba/fulib](https://github.com/fujaba/fulib) (5 months ago) - Fujaba library
+- [fujaba/fulib](https://github.com/fujaba/fulib) (5 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) (5 months ago) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
 - [fujaba/StudentAffairs](https://github.com/fujaba/StudentAffairs) (7 months ago) - 
 - [KosrenDQ/DevOpsDemoApplication](https://github.com/KosrenDQ/DevOpsDemoApplication) (7 months ago) - 
@@ -24,7 +24,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.5.0](https://github.com/fujaba/fulib/releases/tag/v1.5.0), today) - Fujaba library
+- [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.5.1](https://github.com/fujaba/fulib/releases/tag/v1.5.1), today) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.4](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.4), 1 week ago) - A Github action to upgrade a service in Rancher 1.6.X 
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.6.1](https://github.com/fujaba/fulib.org/releases/tag/v1.6.1), 2 months ago) - The fulib.org website and Fulib Scenarios web app.
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v1.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v1.1), 4 months ago) - 
