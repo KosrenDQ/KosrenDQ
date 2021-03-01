@@ -7,8 +7,8 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (today) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) (3 days ago) - 
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (2 weeks ago) - A Github action to upgrade a service in Rancher 1.6.X 
 - [sekassel/IoTWT2021DemoService](https://github.com/sekassel/IoTWT2021DemoService) (4 weeks ago) - 
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (1 month ago) - Certification as a Service Monorepo
 - [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (1 month ago) - A microservice which provides water fill levels of our coffee machine
@@ -24,9 +24,9 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
+- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.0](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.0), today) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) ([v1.7.0](https://github.com/fujaba/fulib.org/releases/tag/v1.7.0), 4 days ago) - The fulib.org website and Fulib Scenarios web app.
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.5.1](https://github.com/fujaba/fulib/releases/tag/v1.5.1), 1 week ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([1.1.4](https://github.com/sekassel-research/actions-rancher-update/releases/tag/1.1.4), 2 weeks ago) - A Github action to upgrade a service in Rancher 1.6.X 
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v1.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v1.1), 4 months ago) - 
 
 #### 👯 Check out some of my recent followers
