@@ -7,10 +7,10 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
+- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (today) - Certification as a Service Monorepo
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (3 days ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) (6 days ago) - 
 - [sekassel/IoTWT2021DemoService](https://github.com/sekassel/IoTWT2021DemoService) (1 month ago) - 
-- [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (1 month ago) - Certification as a Service Monorepo
 - [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (1 month ago) - A microservice which provides water fill levels of our coffee machine
 - [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (3 months ago) - 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (5 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
