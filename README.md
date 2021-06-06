@@ -14,8 +14,8 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [sekassel/IoTWT2021DemoService](https://github.com/sekassel/IoTWT2021DemoService) (4 months ago) - 
 - [sekassel-archive/IoTWS1819Service](https://github.com/sekassel-archive/IoTWS1819Service) (4 months ago) - A microservice which provides water fill levels of our coffee machine
 - [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (6 months ago) - 
-- [fujaba/foolib](https://github.com/fujaba/foolib) (8 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 - [fujaba/fulib](https://github.com/fujaba/fulib) (8 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
+- [fujaba/foolib](https://github.com/fujaba/foolib) (8 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 - [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) (8 months ago) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
 
 #### 🌱 My latest projects
