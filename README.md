@@ -27,7 +27,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [fujaba/foolib](https://github.com/fujaba/foolib) ([1.0.0](https://github.com/fujaba/foolib/releases/tag/1.0.0), 2 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 3 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 - [fujaba/fulib](https://github.com/fujaba/fulib) ([v1.5.1](https://github.com/fujaba/fulib/releases/tag/v1.5.1), 3 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
-- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v1.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v1.1), 7 months ago) - 
+- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v1.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v1.1), 8 months ago) - 
 
 #### 👯 Check out some of my recent followers
 
