@@ -16,7 +16,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (7 months ago) - 
 - [fujaba/fulib](https://github.com/fujaba/fulib) (9 months ago) - Fulib is a library that provides code generation for UML like models and some model management functionalities.
 - [fujaba/foolib](https://github.com/fujaba/foolib) (9 months ago) - Foolib is a library that provides code generation for UML like models and some model management functionalities.
-- [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) (9 months ago) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
+- [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) (10 months ago) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
 
 #### 🌱 My latest projects
 
