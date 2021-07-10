@@ -31,8 +31,8 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👯 Check out some of my recent followers
 
+- [Novusvetus](https://github.com/Novusvetus)
 - [Liphip](https://github.com/Liphip)
 - [Ben-Manfouo](https://github.com/Ben-Manfouo)
 - [unowiz](https://github.com/unowiz)
 - [insidelife](https://github.com/insidelife)
-- [Kuenssi](https://github.com/Kuenssi)
