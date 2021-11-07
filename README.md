@@ -7,7 +7,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
-- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) (3 days ago) - 
+- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) (4 days ago) - 
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (5 months ago) - Certification as a Service Monorepo
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (6 months ago) - Repository for Bug Issues or Feature Requests
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (7 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
@@ -21,7 +21,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v3.0](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v3.0), 2 days ago) - 
+- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v3.0](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v3.0), 3 days ago) - 
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) ([2.0.2](https://github.com/sekassel-research/actions-rancher-update/releases/tag/2.0.2), 7 months ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
 
 #### 👯 Check out some of my recent followers
