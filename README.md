@@ -12,7 +12,6 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (9 months ago) - Certification as a Service Monorepo
 - [sekassel/STPST21Server](https://github.com/sekassel/STPST21Server) (10 months ago) - Repository for Bug Issues or Feature Requests
 - [sekassel-research/actions-rancher-update](https://github.com/sekassel-research/actions-rancher-update) (1 year ago) - A Github action to upgrade a service in Rancher 2.X.X or Rancher 1.6.X
-- [siatoolsuit/siarest-vscode](https://github.com/siatoolsuit/siarest-vscode) (1 year ago) - 
 
 #### 🌱 My latest projects
 
