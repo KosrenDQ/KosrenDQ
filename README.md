@@ -18,7 +18,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v3.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v3.1), 4 months ago) - 
+- [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v3.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v3.1), 5 months ago) - 
 
 #### 👯 Check out some of my recent followers
 
