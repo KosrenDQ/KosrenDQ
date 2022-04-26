@@ -7,7 +7,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
-- [siatoolsuit/oa-parser-typescript](https://github.com/siatoolsuit/oa-parser-typescript) (1 week ago) - OpenAPI parser for typescript
+- [siatoolsuit/oa-parser-typescript](https://github.com/siatoolsuit/oa-parser-typescript) (2 weeks ago) - OpenAPI parser for typescript
 - [sekassel/pmws2122-files](https://github.com/sekassel/pmws2122-files) (2 months ago) - 
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) (5 months ago) - 
 - [sekassel-research/caas-platform](https://github.com/sekassel-research/caas-platform) (10 months ago) - Certification as a Service Monorepo
