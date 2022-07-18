@@ -16,7 +16,6 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🌱 My latest projects
 
-- [KosrenDQ/DevOpsDemoApplication](https://github.com/KosrenDQ/DevOpsDemoApplication) - 
 
 #### 🔭 Latest releases I've contributed to
 
