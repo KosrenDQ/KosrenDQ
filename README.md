@@ -16,7 +16,6 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🌱 My latest projects
 
-- [KosrenDQ/MA-S2-SE2-UML-JS](https://github.com/KosrenDQ/MA-S2-SE2-UML-JS) - 
 
 #### 🔭 Latest releases I've contributed to
 
