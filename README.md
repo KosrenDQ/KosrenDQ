@@ -19,7 +19,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [siatoolsuit/BusinessTrip](https://github.com/siatoolsuit/BusinessTrip) ([v1.0.0-thesis](https://github.com/siatoolsuit/BusinessTrip/releases/tag/v1.0.0-thesis), 5 months ago) - 
+- [siatoolsuit/BusinessTrip](https://github.com/siatoolsuit/BusinessTrip) ([v1.0.0-thesis](https://github.com/siatoolsuit/BusinessTrip/releases/tag/v1.0.0-thesis), 6 months ago) - 
 - [sekassel/CoronaTrackerEsp32](https://github.com/sekassel/CoronaTrackerEsp32) ([v3.1](https://github.com/sekassel/CoronaTrackerEsp32/releases/tag/v3.1), 9 months ago) - 
 
 #### 👯 Check out some of my recent followers
