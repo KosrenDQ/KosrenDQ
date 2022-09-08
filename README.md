@@ -7,8 +7,8 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
-- [sekassel/devops22-app-frontend-KosrenDQ](https://github.com/sekassel/devops22-app-frontend-KosrenDQ) (2 months ago) - devops22-KosrenDQ created by GitHub Classroom
-- [sekassel/devops22-app-backend-KosrenDQ](https://github.com/sekassel/devops22-app-backend-KosrenDQ) (2 months ago) - devops22-app-backend-KosrenDQ created by GitHub Classroom
+- [sekassel-archive/devops22-app-frontend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-frontend-KosrenDQ) (2 months ago) - devops22-KosrenDQ created by GitHub Classroom
+- [sekassel-archive/devops22-app-backend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-backend-KosrenDQ) (2 months ago) - devops22-app-backend-KosrenDQ created by GitHub Classroom
 - [siatoolsuit/BusinessTrip](https://github.com/siatoolsuit/BusinessTrip) (3 months ago) - 
 - [siatoolsuit/oa-parser-typescript](https://github.com/siatoolsuit/oa-parser-typescript) (4 months ago) - OpenAPI parser for typescript
 - [sekassel/pmws2122-files](https://github.com/sekassel/pmws2122-files) (6 months ago) - 
