@@ -7,7 +7,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
-- [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) (2 days ago) - 
+- [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) (3 days ago) - 
 - [sekassel-archive/devops22-app-frontend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-frontend-KosrenDQ) (5 months ago) - devops22-KosrenDQ created by GitHub Classroom
 - [sekassel-archive/devops22-app-backend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-backend-KosrenDQ) (5 months ago) - devops22-app-backend-KosrenDQ created by GitHub Classroom
 - [siatoolsuit/BusinessTrip](https://github.com/siatoolsuit/BusinessTrip) (6 months ago) - 
@@ -19,7 +19,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) ([v0.6.0](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend/releases/tag/v0.6.0), 2 days ago) - 
+- [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) ([v0.6.0](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend/releases/tag/v0.6.0), 3 days ago) - 
 - [siatoolsuit/BusinessTrip](https://github.com/siatoolsuit/BusinessTrip) ([v1.0.0-thesis](https://github.com/siatoolsuit/BusinessTrip/releases/tag/v1.0.0-thesis), 10 months ago) - 
 
 #### 👯 Check out some of my recent followers
