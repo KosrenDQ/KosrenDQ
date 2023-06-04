@@ -11,7 +11,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) (4 months ago) - 
 - [sekassel-archive/devops22-app-frontend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-frontend-KosrenDQ) (11 months ago) - devops22-KosrenDQ created by GitHub Classroom
 - [sekassel-archive/devops22-app-backend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-backend-KosrenDQ) (11 months ago) - devops22-app-backend-KosrenDQ created by GitHub Classroom
-- [siatoolsuit/BusinessTrip](https://github.com/siatoolsuit/BusinessTrip) (11 months ago) - 
+- [siatoolsuit/BusinessTrip](https://github.com/siatoolsuit/BusinessTrip) (1 year ago) - 
 
 #### 🌱 My latest projects
 
