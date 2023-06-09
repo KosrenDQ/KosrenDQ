@@ -20,7 +20,6 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 #### 🔭 Latest releases I've contributed to
 
 - [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) ([v0.8.0](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend/releases/tag/v0.8.0), 4 months ago) - 
-- [siatoolsuit/BusinessTrip](https://github.com/siatoolsuit/BusinessTrip) ([v1.0.0-thesis](https://github.com/siatoolsuit/BusinessTrip/releases/tag/v1.0.0-thesis), 1 year ago) - 
 
 #### 👯 Check out some of my recent followers
 
