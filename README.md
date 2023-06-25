@@ -9,7 +9,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 - [KosrenDQ/git-sample](https://github.com/KosrenDQ/git-sample) (4 months ago) - 
 - [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) (5 months ago) - 
-- [sekassel-archive/devops22-app-frontend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-frontend-KosrenDQ) (11 months ago) - devops22-KosrenDQ created by GitHub Classroom
+- [sekassel-archive/devops22-app-frontend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-frontend-KosrenDQ) (1 year ago) - devops22-KosrenDQ created by GitHub Classroom
 - [sekassel-archive/devops22-app-backend-KosrenDQ](https://github.com/sekassel-archive/devops22-app-backend-KosrenDQ) (1 year ago) - devops22-app-backend-KosrenDQ created by GitHub Classroom
 
 #### 🌱 My latest projects
