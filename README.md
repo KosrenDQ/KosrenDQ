@@ -8,7 +8,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 #### 👷 Check out what I'm currently working on
 
 - [KosrenDQ/git-sample](https://github.com/KosrenDQ/git-sample) (8 months ago) - 
-- [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) (8 months ago) - 
+- [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) (9 months ago) - 
 
 #### 🌱 My latest projects
 
@@ -16,7 +16,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) ([v0.8.0](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend/releases/tag/v0.8.0), 8 months ago) - 
+- [k-r-i-s-t-a/SmartMirror_Frontend](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend) ([v0.8.0](https://github.com/k-r-i-s-t-a/SmartMirror_Frontend/releases/tag/v0.8.0), 9 months ago) - 
 
 #### 👯 Check out some of my recent followers
 
