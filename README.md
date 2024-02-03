@@ -7,7 +7,7 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 
 #### 👷 Check out what I'm currently working on
 
-- [KosrenDQ/git-sample](https://github.com/KosrenDQ/git-sample) (11 months ago) - 
+- [KosrenDQ/git-sample](https://github.com/KosrenDQ/git-sample) (1 year ago) - 
 
 #### 🌱 My latest projects
 
